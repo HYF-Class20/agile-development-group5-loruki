@@ -18,7 +18,7 @@ include:
 
 - we have limited skill levels to rebuild this website, we need to extra effort.
 - working as a group can be challenging, its important to establish clear lines
-  of communication and ensure that everyone is on the page through out the
+  of communication and ensure that everyone is on the page same through out the
   project.
 
 ## Internal: Voluntary
