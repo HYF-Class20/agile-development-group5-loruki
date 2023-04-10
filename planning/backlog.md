@@ -1,30 +1,22 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+- [ ] ...As an international student, you may need the following features when
+      using a cloud platform
 
 ## Must-Haves
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+--- Ease of use: The cloud platform must be easy to use and provide a simple and
+organized interface, so you can use it easily without the need for extensive
+technical expertise.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+-Security and privacy: a cloud platform that guarantees the security and privacy
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+-Adequate storage capacity: The cloud platform should have sufficient storage
+capacity to store your personal files, official documents, and research papers.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+Technical support: a cloud platform that provides available technical support
+around the clock, so you can get
