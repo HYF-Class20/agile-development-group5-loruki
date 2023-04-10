@@ -6,12 +6,14 @@
 
 <!-- a persona -->
 
-## Their Role
+## Regional Director Web Developer
 
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
+- **Bio**: Jilla Anderson, Age:35,
+- **Needs/Goals**: To narrow her options , To spend less time booking travels
+- **Frustrations**: too many websites visited per trip, too much time spent
+  booking-she's busy!
+- **Scenario 1**: Jilla needs to cut traveling cost, deliver the website to the
+  end user quicker
 
 ---
 
