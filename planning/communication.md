@@ -1,6 +1,8 @@
 # Communication
 
-We believe communication is a key, that's why we setting a rules as a group.
+We believe effective communication is a key to our group, because its helps us
+to understand each other. And it allows every member to express his or her
+thoughts, feelings and ideas clearly and effectively.
 
 ## Group Rules
 
@@ -41,15 +43,15 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Andy        | Sarah       | Biniam      | Jean Paul   |
-| --------- | ----------- | ----------- | ----------- | ----------- |
-| Monday    | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
-| Tuesday   | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
-| Wednesday | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
-| Thursday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
-| Friday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
-| Saturday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
-| Sunday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Day       | Andy        | Sarah       | Biniam      |
+| --------- | ----------- | ----------- | ----------- |
+| Monday    | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
+| Tuesday   | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
+| Wednesday | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Thursday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Friday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Saturday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Sunday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
 
 ### How many hours everyone has per day
 
@@ -59,8 +61,6 @@ How often will we get in touch on each channel, and what we will discuss there:
   message me if you need me outside of those hours.
 - Biniam: _6h_; I am available during the times listed above, but feel free to
   message me if you need me outside of those hours.
-- Jean Paul: _6h_; I am available during the times listed above, but feel free
-  to message me if you need me outside of those hours.
 
 ## Asking for Help
 
