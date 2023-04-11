@@ -1,39 +1,16 @@
-# Restaurants finder
+# Loruki
 
----
+## Overview
 
-<!-- ## User Story Dependencies
+Cloud-based software simply refers to any software program or application that’s
+stored, managed, and available through the cloud.
 
-[Story Dependency Diagram](https://excalidraw.com/)
+## Accessibility
 
----
+The website has been designed to be accessible for web developers all over the
+world
 
-## WIREFRAME
+## Responsive Design
 
-![wireframe]() -->
-
----
-
-## 0.Setup
-
-- ...
-- ...
-
----
-
-## 1. Title
-
-**As a user I want to ...**
-
-- This user story is developed on branch `branch-name`.
-- This branch is merged to `master` branch after completion.
-
-### Task n1
-
-- ...
-- ...
-
-### Task n2
-
-- ...
-- ...
+The website has been designed to be responsive to every computer operating
+systems, and different browsers
