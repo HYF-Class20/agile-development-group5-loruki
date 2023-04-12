@@ -1,10 +1,11 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+We decided to have a simple page, we used figma to design our website.
+Prettiness is not a priority for this project. But our design wireframe includes
+the key elements, like heading, navigation, main and footer.
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+> [wireframe source](https://www.figma.com/files/recent?fuid=1227686074259038800)
 
-![wireframe](./wireframe.svg)
+![wireframe](figmadesign.png)
