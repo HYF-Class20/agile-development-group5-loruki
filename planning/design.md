@@ -6,6 +6,6 @@ the key elements, like heading, navigation, main and footer.
 
 ---
 
-> [wireframe source](https://www.figma.com/file/wP7ZHfc9hibDmyCZs64g1B/Untitled?node-id=0-1&t=OhH1wXciuMc3w9cP-0)
+> [wireframe source](https://www.figma.com/files/recent?fuid=1227686074259038800)
 
 ![wireframe](figmadesign.png)
