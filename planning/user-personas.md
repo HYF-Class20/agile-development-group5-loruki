@@ -33,8 +33,8 @@
 
 Martin was graduated in a well known university in Berlin, "CODE University of
 Applied Sciences" in 2010. And he studied software engineering. Since 2015, he
-has been working as a freelance web developer. He's got a lot of expreinces in
+has been working as a freelance web developer. He's got a lot of experiences in
 his career and he bravely wants to build a company of web developing and he
 wants to open a chance for other developer to work with him. Even though he got
-very smart ideas he is bit worried about a budget chelleges that he will be
+very smart ideas he is bit worried about a budget challenges that he will be
 facing.

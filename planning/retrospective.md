@@ -18,7 +18,7 @@
 
 ## Lessons Learned
 
-- learng from each other is a useful and effective way to learn
+- learning from each other is a useful and effective way to learn
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## What parts of your plan went as expected?
 
-- daily Slack meetings weent as planned
+- daily Slack meetings went as planned
 
 ## What parts of your plan did not work out?
 
