@@ -8,4 +8,4 @@ the key elements, like heading, navigation, main and footer.
 
 > [wireframe source](https://www.figma.com/files/recent?fuid=1227686074259038800)
 
-![wireframe](figmadesign.png)
+![wireframe]()
